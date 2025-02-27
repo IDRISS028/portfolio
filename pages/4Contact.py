@@ -20,14 +20,6 @@ st.write(
     """
 )
 
-st.subheader("🧑‍💻 Coordonnées")
-st.write(
-    """
-    - 📧 **Email :** idrissss.dagnogo@gmail.com  
-    - 📞 **Téléphone :** +33 7 44 20 43 01  
-    - 🔗 **LinkedIn :** [Mon profil LinkedIn](https://www.linkedin.com/in/emmanuel-idriss-dagnogo-747459292/)  
-    """
-)
 
 st.subheader("📬 Laissez-moi un message :")
 with st.form(key='contact_form'):
