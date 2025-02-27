@@ -33,7 +33,7 @@ if submit_button:
     if nom and email_utilisateur and message_utilisateur:
         try:
             # Configuration de l'envoi
-            expéditeur = st.secrets.contact.expéditeur
+            expéditeur = st.secrets.contact.expediteur
             mot_de_passe = st.secrets.contact.mot_de_passe
             destinataire = st.secrets.contact.destinataire
 
