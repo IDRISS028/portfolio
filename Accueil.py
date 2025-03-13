@@ -10,7 +10,7 @@ from components import side
 
 
 st.set_page_config(
-    page_title="Portfolio",
+    page_title="Accueil",
     layout="wide"
     #page_icon="",
 )
